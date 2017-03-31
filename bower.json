@@ -1,0 +1,10 @@
+{
+  "name": "topScroll",
+  "homepage": "https://github.com/sShayron/scroll-top-jquery",
+  "authors": [
+    "Shayron Aguiar <shayron.aguiar@resultate.com.br>"
+  ],
+  "description": "Simple plugin to make button scroll to top",
+  "main": "top-scroll.js",
+  "license": "MIT"
+}
